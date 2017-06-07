@@ -1,0 +1,7 @@
+INFILE=/home/hernan/sketchbook/j1/J1_soc-master/hdl/build/project_r.ncd
+OUTFILE=/home/hernan/sketchbook/j1/J1_soc-master/hdl/build/project_r.bit
+FAMILY=Artix7
+PART=xc7a100t-1csg324
+WORKINGDIR=/home/hernan/sketchbook/j1/J1_soc-master/hdl/build
+LICENSE=WebPack
+USER_INFO=211319728_0_0_351
